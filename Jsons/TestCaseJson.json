@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/fields/System.Title",
+    "value": "$name$"
+  },
+  {
+    "op": "add",
+    "path": "/fields/Custom.EndDate",
+    "value": "$endDate$"
+  }
+]
